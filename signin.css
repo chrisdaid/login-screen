@@ -73,17 +73,17 @@ body .container {
 
 #facebook {
   margin: 0 50px;
-  background-image: url(../svg/facebook.svg);
+  background-image: url(/assets/facebook.svg);
 }
 
 #twitter { 
   margin: 0 50px;
-  background-image: url(../svg/twitter.svg);
+  background-image: url(/assets/twitter.svg);
 }
 
 #google-plus {
   
-  background-image: url(../svg/google.svg);
+  background-image: url(/assets/google.svg);
 }
 
 /* Label and Text Box*/
@@ -98,7 +98,6 @@ body .container {
 #username-label {
   margin-top: 5px;
   margin-right: 15px;
-  font-family: Open Sans, sans-serif;
   font-style: normal;
   font-weight: bold;
   font-size: 18px;
@@ -114,7 +113,6 @@ body .container {
   outline: none;
   background: #dbdcdf;
   font-size: 18px;
-  font-family: Open Sans, sans-serif;
   font-weight: 600;
 }
 
